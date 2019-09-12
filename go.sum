@@ -1,0 +1,12 @@
+github.com/benbjohnson/immutable v0.1.0 h1:Xb8yqs/likfknp58OrMACMafn6+IPZj+X2LlsqoMLoI=
+github.com/benbjohnson/immutable v0.1.0/go.mod h1:D6ndFctUwO7wIhhq3c/q1pzpqelTN80/lOuenUSRUGs=
+github.com/benbjohnson/immutable v0.1.1 h1:iQYXoZcsviVrTCRCfK9oyn8z4fdPibobIgsK2GPQpEU=
+github.com/benbjohnson/immutable v0.1.1/go.mod h1:D6ndFctUwO7wIhhq3c/q1pzpqelTN80/lOuenUSRUGs=
+github.com/benbjohnson/immutable v0.2.0 h1:t0rW3lNFwfQ85IDO1mhMbumxdVSti4nnVaal4r45Oio=
+github.com/benbjohnson/immutable v0.2.0/go.mod h1:uc6OHo6PN2++n98KHLxW8ef4W42ylHiQSENghE1ezxI=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/google/go-cmp v0.2.0 h1:+dTQ8DZQJz0Mb/HjFlkptS1FeQ4cWSnN941F8aEG4SQ=
+github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5aqRK0M=
+golang.org/x/tools v0.0.0-20190107155254-e063def13b29 h1:mtLB/BpwjjSIylF0++D6EG1ExPVEIcFKMMwK6HFmbtU=
+golang.org/x/tools v0.0.0-20190107155254-e063def13b29/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
